@@ -1,1 +1,2 @@
 # Challenge1-SemanticHTML
+This is a repository for the first challenge of the BCS Bootcamp. in this project I consildated css to be more easily readable and I refactored the code base into semantic HTML and removed the div soup.
